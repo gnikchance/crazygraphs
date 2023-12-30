@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function NavBar() {
   return (
     <>
-      <div className="container bg-gray-700 px-8 font-md text-gray-300">
+      <div className="bg-gray-700 px-8 font-md text-gray-300">
         <nav>
           <div className="flex flex-wrap justify-between md:flex-nowrap md:gap-10">
             <div className="flex w-full items-center justify-between md:w-auto">

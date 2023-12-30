@@ -1,9 +1,11 @@
 import '@/styles/globals.css'
 import Footer from '@/components/footer'
+import NavBar from '@/components/navbar'
 
 export default function App({ Component, pageProps }) {
   return (
     <>
+    
     <div style={{
       backgroundColor: '#f0f3f5',
       display: 'flex',
@@ -14,6 +16,7 @@ export default function App({ Component, pageProps }) {
       marginRight: 'auto',
       border: '1px solid #ccc',
     }}>
+      <NavBar />
       <Component {...pageProps} />
     </div>
     <Footer />
