@@ -129,29 +129,29 @@ export default function TallestBuildings() {
         {/* Start Description*/}
         <p className="text-xl font-bold mb-4 mt-10">Description</p>
         <p className="text-lg mb-4">
-          The buildings featured in this chart are marvels of modern engineering
-          and architecture. They represent a diverse range of styles and are
-          located in cities around the world. For instance, the Burj Khalifa in
-          Dubai, currently the tallest building globally, stands at an
-          awe-inspiring height of over 2,700 feet. It's not just a skyscraper,
-          but a symbol of Dubai's growth and development.
+            The buildings featured in this chart are marvels of modern engineering
+            and architecture. They represent a diverse range of styles and are
+            located in cities around the world. For instance, the Burj Khalifa in
+            Dubai, currently the tallest building globally, stands at an
+            awe-inspiring height of over 2,700 feet. It&apos;s not just a skyscraper,
+            but a symbol of Dubai&rsquo;s growth and development.
         </p>
         <p className="text-lg mb-4">
-          Did you know that the construction of these super-tall buildings often
-          leads to "height competitions" among cities? For example, the race
-          between the Chrysler Building and 40 Wall Street for the title of the
-          tallest building in the world in the late 1920s is a famous historical
-          example. The Chrysler Building won by secretly assembling a 125-foot
-          spire inside the building and then hoisting it into place, taking the
-          total height to 1,046 feet!
+            Did you know that the construction of these super-tall buildings often
+            leads to &quot;height competitions&quot; among cities? For example, the race
+            between the Chrysler Building and 40 Wall Street for the title of the
+            tallest building in the world in the late 1920s is a famous historical
+            example. The Chrysler Building won by secretly assembling a 125-foot
+            spire inside the building and then hoisting it into place, taking the
+            total height to 1,046 feet!
         </p>
         <p className="text-lg mb-4">
-          These buildings are not just about height, though. They are
-          multi-functional complexes that often include offices, hotels,
-          observation decks, and even residential spaces. They are a testament
-          to human ingenuity and the endless pursuit of reaching new heights.
-          In part, they are a celebration of architectural and societal achievements that
-          continue to push the boundaries of what's possible.
+            These buildings are not just about height, though. They are
+            multi-functional complexes that often include offices, hotels,
+            observation decks, and even residential spaces. They are a testament
+            to human ingenuity and the endless pursuit of reaching new heights.
+            In part, they are a celebration of architectural and societal achievements that
+            continue to push the boundaries of what&rsquo;s possible.
         </p>
       </div>
     </>
